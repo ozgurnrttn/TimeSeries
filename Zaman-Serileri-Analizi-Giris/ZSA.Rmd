@@ -194,7 +194,7 @@ $$ r_k ={\sum_{t=k+1}^T (y_t - y  )(y_{t-k}-y)}/{ \sum_{t+1}^T (y_t - y)^2 }    
 
 
 ```{r}
-ggAcf(nottem, lag.max=25) +ggtitle("Trende sahip 25 gecikmeli kısmi otokorelasyon grafiği(ACF)") #lag.max gecikma sayısını gösterir
+ggAcf(nottem, lag.max=25) +ggtitle("Trende sahip 25 gecikmeli otokorelasyon grafiği(ACF)") #lag.max gecikma sayısını gösterir
 
 ```
 
