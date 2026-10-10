@@ -143,7 +143,7 @@ Bu değerlendirme sonucu ile de ilgili serinin zaman bileşenlerinin *çarpımsa
 
 ## Süreçler
 
-![](C:/Users/oztur/Desktop/surec.png)
+![](surec.png)
 
 ```{r}
 plot(AirPassengers)  #Yıllara Göre Avustralya'da İkamet Edenlerin Sayısı (Sıklık = 4)
